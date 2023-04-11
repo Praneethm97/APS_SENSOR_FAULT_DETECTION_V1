@@ -8,6 +8,7 @@ saved_models
 *.so
 prediction
 saved_models
+prediction
 demotest.py
 logs
 artifacts
